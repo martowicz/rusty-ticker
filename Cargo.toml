@@ -1,0 +1,15 @@
+[package]
+name = "getrusty"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+lcd-lcm1602-i2c = "0.3"
+cortex-m-rt = "0.7.5"
+panic-halt = "1.0.0"
+stm32f4xx-hal = { version = "0.22.1", features = ["stm32f411"] }
+cortex-m = "0.7"        # Nowa wersja cortex-m
+embedded-hal = "1.0"      # Najnowsza wersja embedded-hal
+defmt = "1.0.1"
+rtt-target = "0.6.1"
+heapless = "0.8.0"
