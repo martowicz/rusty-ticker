@@ -26,10 +26,10 @@ Prosty minutnik napisany w Rust dla płytki BlackPill z STM32F411CEU6.
 
 
 
-## Schemat poglądowy
+## 🛠️ Schemat poglądowy
 
 ![Schemat minutnika](./schemat.png)
 
-## Zdjęcie projektu
+## 📷 Zdjęcie projektu
 
 ![Zdjęcie](./zdjecie_ukladu.JPG)
