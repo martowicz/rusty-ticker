@@ -23,3 +23,13 @@ Prosty minutnik napisany w Rust dla płytki BlackPill z STM32F411CEU6.
 3. Naciśnij joystick aby rozpocząć
 4. Po upływie czasu buzzer zacznie piszczeć w krótkich interwałach czasowych
 5. Aby wyłaczyć sygnalizację, należy ponownie nacisnąć przycisk
+
+
+
+## Schemat poglądowy
+
+![Schemat minutnika](./schemat.png)
+
+## Zdjęcie projektu
+
+![Zdjęcie](./zdjecie_ukladu.JPG)
